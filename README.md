@@ -47,11 +47,13 @@ Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke halaman dash
 
 *   Setelah beberapa tahapan selesai, anda akan dibawa langsung ke tampilan ruang kerja proyek.
 
+![alt text](https://github.com/ilhmainr/Asana-ProjectManagement/blob/main/image%20asana/asana%20task%202.png)
+
 *   Di ruang kerja proyek ini anda bisa mengubah nama proyek, tanggal batasan mau dikerjakan sampai kapan proyeknya, dan bisa mengundang rekan kerja untuk berpartisipasi dalam proyek yang mau diselesaikan.
 
 *   Apabila proyek yang dikerjakan sudah selesai, anda dapat memberikan centang sebagai pertanda bahwa tugas tersebut telah diselesaikan.
 
-![alt text](https://github.com/ilhmainr/Asana-ProjectManagement/blob/main/image%20asana/asana%20task.png)
+![alt text](https://github.com/ilhmainr/Asana-ProjectManagement/blob/main/image%20asana/Screenshot%202023-05-31%20215052.png)
 
 ## Pilihan Paket Asana
 ### 1. Paket *basic*
