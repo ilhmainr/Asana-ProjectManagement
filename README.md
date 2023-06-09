@@ -1,5 +1,5 @@
 # Asana - ManajemenProyek
-> Ilham Ainur Idhana (19081010199)
+> Ilham Ainur Idhana (19081010099)
 
 ## Tentang Asana
    Asana merupakan sebuah perangkat lunak kolaboratif yang dirancang untuk membantu tim dalam mengatur dan mengelola proyek, tugas, dan pekerjaan sehari-hari. Asana memungkinkan anggota tim untuk membuat daftar tugas, mengatur jadwal, mengoordinasikan tanggung jawab, dan berkomunikasi secara efisien.
